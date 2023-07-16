@@ -1,10 +1,11 @@
 package main
 
 import (
-	"GitHub/Go/cards/utils"
 	"errors"
 	"os"
 	"strings"
+
+	"GitHub/Go/cards/utils"
 )
 
 // Deck is a split of strings
